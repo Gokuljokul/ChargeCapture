@@ -6,7 +6,7 @@ Recommend using camera from the apps instead of Built-in for higher precision of
 
 After you start the app click Charge-capture-Detector OCR, then choose the picture or using camera to take one that you want to detect.
 Then you'll see the result of it, click on an orange box can add it's text into Array.
-![image](https://github.com/Gokuljokul/PictureOCR/blob/master/ChargeCapture/detectLines.png)
+![image](https://github.com/Gokuljokul/ChargeCapture/blob/master/detectLines.png)
  
 ![image](https://github.com/Gokuljokul/ChargeCapture/blob/master/homescreen.png)
 
